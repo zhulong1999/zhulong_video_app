@@ -2,13 +2,15 @@
 	"pages": [{
 		"path": "pages/index/index",
 		"style": {
-			"navigationStyle": "custom"
+			"navigationStyle":"custom"
 		}
 	}],
-	
+	"globalStyle":{
+		"navigationBarTextStyle":"black"
+	},
 	"tabBar": {
-	    "color": "#7A7E83",
-	    "selectedColor": "#3cc51f",
+	    "color": "#D8D8D8",
+	    "selectedColor": "#FF6B69",
 	    "borderStyle": "black",
 	    "backgroundColor": "#ffffff",
 	    "list": [{
